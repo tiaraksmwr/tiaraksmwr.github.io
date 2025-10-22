@@ -4,7 +4,11 @@ The Fire You Gave
 Lirik by Tiara Kusuma Wardhani
 Music: SUNO
 
-{{< audio https://drive.google.com/file/d/1v6AF8BAe6oKzeVuKDZMhC0SLV608ZIjl/view?usp=sharing>}}
+<!-- Audio embed from Google Drive -->
+<audio controls>
+  <source src="https://drive.google.com/uc?export=download&id=1v6AF8BAe6oKzeVuKDZMhC0SLV608ZIjl" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 Penjelasan Lagu "The Fire You Gave"
 
