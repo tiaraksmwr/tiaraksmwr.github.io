@@ -1,10 +1,10 @@
-# 4 UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 **Sumber** [VIA assessment](StrengthsProfile-Tiara-Kusuma.pdf)
 
 ---
 
-## 0) Ringkasan 1 Halaman
+## Ringkasan 1 Halaman
 
 **Peran Inti:**  
 Saya adalah seseorang yang berusaha terus berkembang dalam belajar dan berkontribusi kepada orang-orang di sekitar saya. Sebagai anak tunggal yang tumbuh di Malang, saya belajar untuk beradaptasi dengan lingkungan dan menjadi lebih terbuka terhadap perubahan. Saya ingin menggunakan pengalaman hidup dan kekuatan saya untuk memberi dampak positif di kehidupan pribadi, keluarga, dan komunitas saya.
@@ -41,7 +41,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
+## S — Spiritual Gifts (Karunia Rohani)
 
 **Hasil Analisis VIA saya:**  
 - **Empati & Pengertian:**  
@@ -56,7 +56,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 2) H — Heart (Minat, Nilai, Kepedulian)
+## H — Heart (Minat, Nilai, Kepedulian)
 
 **Hasil Analisis VIA saya:**  
 - **Pendidikan yang Bermakna:**  
@@ -74,7 +74,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 3) A — Abilities (Kemampuan Andal)
+## A — Abilities (Kemampuan Andal)
 
 **Hasil Analisis VIA saya:**  
 - **Kemampuan Mendengarkan dan Memberi Dukungan:**  
@@ -92,7 +92,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 4) P — Personality (Gaya Kerja & Kolaborasi)
+## P — Personality (Gaya Kerja & Kolaborasi)
 
 **Hasil Analisis VIA saya:**  
 - **Terstruktur & Reflektif:**  
@@ -106,7 +106,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+## E — Experiences (Pengalaman Pembentuk)
 
 **Hasil Analisis VIA saya:**  
 - **Pengalaman Menghadapi Tantangan:**  
@@ -120,7 +120,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 ---
 
-## 6) Piagam Diri (Self‑Charter)
+## Piagam Diri (Self‑Charter)
 
 **Misi Hidup:**  
 Menciptakan ruang yang mendukung pengembangan diri dan hubungan yang bermakna, membantu orang lain tumbuh dengan memberi dukungan yang tulus.
@@ -142,13 +142,13 @@ Menjaga keseimbangan antara pekerjaan dan kehidupan pribadi, serta menolak beker
 
 ---
 
-## 7) Narasi 90 Detik (Elevator Pitch)
+## Narasi 90 Detik (Elevator Pitch)
 
 “Saya Tiara Kusuma Wardhani, seorang mahasiswa yang berfokus pada pendidikan dan pemberdayaan diri melalui pengalaman hidup dan komunikasi yang empatik. Saya percaya bahwa berbagi pengalaman adalah cara terbaik untuk membantu orang berkembang. Saya memiliki kekuatan dalam mendengarkan, berbicara dengan percaya diri, dan memberikan dukungan yang tepat. Saya ingin terus mengembangkan diri dan memberikan dampak positif bagi orang-orang di sekitar saya.”
 
 ---
 
-## 8) Service‑Fit Map (Tempat Saya Paling Berdampak)
+## Service‑Fit Map (Tempat Saya Paling Berdampak)
 
 Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan **komunitas sosial**.  
 - **Kampus:** Sebagai mahasiswa yang aktif, saya ingin terus memberikan kontribusi dengan membantu teman-teman dalam memahami materi kuliah, membimbing mereka dalam proyek atau tugas, serta berkolaborasi dalam kegiatan akademik atau sosial. Saya juga ingin mengembangkan kurikulum yang relevan dengan kebutuhan nyata mahasiswa.
@@ -157,7 +157,7 @@ Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan 
 
 ---
 
-## 9) Evidences (Artefak & Tautan)
+## Evidences (Artefak & Tautan)
 
 - **Karya Tulis:** Artikel yang saya tulis untuk berbagi pengalaman dan pengetahuan yang dapat menginspirasi orang lain.
 - **Presentasi & Kuliah:** Pengalaman berbicara di depan umum, memberikan presentasi kepada teman-teman, serta pengalaman mengajar teman untuk memahami materi kuliah yang sulit.
@@ -166,7 +166,7 @@ Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan 
 
 ---
 
-## 10) Rencana Aksi 90 Hari (SMART)
+## Rencana Aksi 90 Hari (SMART)
 
 - **Tugas Akademik:** Menyelesaikan semua tugas akademik tepat waktu, dengan fokus pada penyelesaian materi kuliah dan proyek kelompok.  
   - **Outcome:** Semua tugas selesai dan dipresentasikan dengan baik.  
@@ -182,7 +182,7 @@ Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan 
 
 ---
 
-## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
+## SHAPE ↔ CPMK (Interpersonal & Public Communication)
 
 - **Self‑awareness & refleksi (CPMK‑S):** Dalam **Piagam Diri** & **Narasi 90 detik**, saya mencatat bagaimana cara saya memahami diri, terutama dalam merencanakan tujuan dan mendengarkan perasaan orang lain.
 - **Empati & komunikasi etis (CPMK‑E):** Saya terus belajar untuk menjadi pendengar yang baik dan menjaga komunikasi yang etis dengan teman-teman serta orang yang saya ajak bekerja sama.
@@ -191,7 +191,7 @@ Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan 
 
 ---
 
-## 12) Self‑Assessment Rubrik UTS‑4
+## Self‑Assessment Rubrik UTS‑4
 
 | Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
 | ----------------------- | ------------------------------ | ---------: | ----- |
@@ -204,7 +204,7 @@ Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan 
 **Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
 ---
 
-## 13) Versi Ultra‑Ringkas (≤140 kata)
+## Versi Ultra‑Ringkas (≤140 kata)
 
 "Saya Tiara Kusuma Wardhani, seorang mahasiswa yang berfokus pada pemberdayaan orang lain melalui pendidikan berbasis nilai dan komunikasi empatik. Karunia saya adalah mendengarkan, berbicara dengan percaya diri, dan memberikan dukungan kepada orang lain untuk mencapai potensi terbaik mereka. Saya berkomitmen untuk menciptakan hubungan yang bermakna dan memberikan dampak positif melalui pendidikan dan kolaborasi."
 

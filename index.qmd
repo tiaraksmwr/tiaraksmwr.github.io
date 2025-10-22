@@ -1,6 +1,4 @@
-# Selamat Berjumpa {.unnumbered}
-
-# Hai, terima kasih sudah mampir! 🙋🏻‍♀️
+# Hai, terima kasih sudah mampir! 🙋🏻‍♀️ {.unnumbered}
 
 Saya **Tiara Kusuma Wardhani**, dan website ini adalah hasil dari tugas mata kuliah **Komunikasi Interpersonal dan Publik (II2100)** di Program Studi **Sistem dan Teknologi Informasi, STEI-ITB**.
 
