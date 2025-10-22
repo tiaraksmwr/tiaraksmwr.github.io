@@ -1,7 +1,7 @@
 # UTS-2 My Songs for You
 
-The Fire You Gave
-Lirik by Tiara Kusuma Wardhani
+**The Fire You Gave**  
+Lirik by Tiara Kusuma Wardhani  
 Music: SUNO
 
 <!-- Audio embed from Google Drive -->
@@ -10,57 +10,71 @@ Music: SUNO
   Your browser does not support the audio element.
 </audio>
 
-Penjelasan Lagu "The Fire You Gave"
+### Penjelasan Lagu "The Fire You Gave"
 
 Lagu **"The Fire You Gave"** saya tulis sebagai bentuk komunikasi pribadi untuk orang tua saya, yang selalu menjadi sumber kekuatan dan nilai dalam hidup saya. Dalam lagu ini, saya menggunakan campuran bahasa Indonesia dan Inggris untuk menggambarkan keseimbangan antara dunia tradisional keluarga dengan dunia modern tempat saya tumbuh. Lagu ini menjadi ungkapan rasa syukur, rindu, dan tekad untuk terus berjuang, sekaligus mencerminkan komunikasi interpersonal yang empatik dengan menyampaikan cinta, pengakuan, dan penghargaan kepada orang tua secara jujur.
 
-**Verse 1**
+---
+
+### **Verse 1**  
 Lirik pertama menggambarkan kenangan saya bersama orang tua, di mana kami duduk bersama, berbicara tanpa batas dan rasa takut, membahas mimpi dan dunia yang luas. Mereka mengingatkan saya untuk tidak takut untuk mengejar impian, memberikan dorongan yang tidak hanya mendalam tetapi juga penuh keyakinan.
 
 > **"That night I still remember so clear,  
-We sat talking, no boundaries, no fear,  
-About dreams, about the world so wide,  
-You said, 'My child, don’t be afraid to reach far and wide.'"**
+> We sat talking, no boundaries, no fear,  
+> About dreams, about the world so wide,  
+> You said, 'My child, don’t be afraid to reach far and wide.'"**
 
-**Verse 2**
+---
+
+### **Verse 2**  
 Verse kedua menceritakan pengorbanan orang tua, dengan simbol "keringat yang menjadi doa". Mereka telah berusaha keras untuk menciptakan jalan bagi saya, dengan mengorbankan banyak hal agar saya bisa berdiri dan mencapai posisi saya sekarang. Ini mencerminkan betapa besar perjuangan orang tua saya dalam hidup saya.
 
 > **"Your sweat turned into prayers,  
-Your steps crossed islands, passed through time and air,  
-You paved the road with your own hands,  
-So I could stand where I am today, where I stand."**
+> Your steps crossed islands, passed through time and air,  
+> You paved the road with your own hands,  
+> So I could stand where I am today, where I stand."**
 
-**Chorus**
+---
+
+### **Chorus**  
 Chorus mengungkapkan rasa terima kasih saya kepada orang tua, meskipun kami terpisah jarak, suara mereka tetap bersinar seperti bintang utara, menjadi petunjuk dan sumber keberanian saya. Mereka memberi saya "api" yang terus menyala dalam hati saya, yang memberi saya kekuatan untuk terus berjuang.
 
 > **"Father, Mother, hear me from afar,  
-Your voices still shine like northern stars,  
-I’m fighting here with the fire you gave,  
-A flame you lit deep in my heart, to be brave."**
+> Your voices still shine like northern stars,  
+> I’m fighting here with the fire you gave,  
+> A flame you lit deep in my heart, to be brave."**
 
-**Verse 3**
+---
+
+### **Verse 3**  
 Verse ketiga menggambarkan betapa kuatnya keteguhan hati orang tua saya, yang selalu penuh kebanggaan dan tidak pernah ragu, meskipun saya sekarang jauh dari rumah. Kehangatan mereka tetap memberi arah dalam hidup saya, meskipun kami terpisah oleh jarak.
 
 > **"God is the witness to your every stride,  
-Never tired, never doubting, full of pride,  
-Now that I’m far from home’s embrace,  
-Your warmth still guides me, wherever I chase."**
+> Never tired, never doubting, full of pride,  
+> Now that I’m far from home’s embrace,  
+> Your warmth still guides me, wherever I chase."**
 
-**Bridge**
+---
+
+### **Bridge**  
 Bagian bridge menambahkan unsur kerinduan dan kesepian yang sering datang. Namun, cinta orang tua saya tetap menjadi kekuatan yang menjaga jiwa saya, mengingatkan saya pada kenangan indah saat bersama mereka.
 
 > **"Sometimes loneliness comes knocking on my door,  
-But your love keeps my soul evermore,  
-I miss our laughter, those peaceful nights,  
-When stories healed, and prayers held us tight."**
+> But your love keeps my soul evermore,  
+> I miss our laughter, those peaceful nights,  
+> When stories healed, and prayers held us tight."**
 
-**Final Chorus**
+---
+
+### **Final Chorus**  
 Chorus terakhir merupakan ungkapan rasa terima kasih saya yang mendalam kepada orang tua, mengakui bahwa menjadi anak mereka adalah anugerah terbesar dalam hidup saya. Saya berjanji untuk terus melangkah maju dengan membawa "api" yang mereka beri, sebagai penerang jalan hidup saya.
 
 > **"Father, Mother, I’m grateful, truly I am,  
-To be your child is life’s greatest plan,  
-I’ll walk ahead and proudly say,  
-I’ll keep the fire—you gave—that lights my way."**
+> To be your child is life’s greatest plan,  
+> I’ll walk ahead and proudly say,  
+> I’ll keep the fire—you gave—that lights my way."**
 
-**Kesimpulan**
+---
+
+### **Kesimpulan**  
 Lagu ini adalah simbol dari hubungan saya dengan orang tua—perjuangan, doa, dan cinta tanpa batas yang mereka berikan. "The Fire You Gave" bukan hanya tentang mengingat apa yang telah diberikan oleh orang tua, tetapi juga tentang bagaimana saya membawa semangat itu dalam perjalanan hidup saya, menjaga api tersebut tetap menyala, dan terus berkembang menjadi versi terbaik dari diri saya.

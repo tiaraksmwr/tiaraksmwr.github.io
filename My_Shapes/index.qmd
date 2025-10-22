@@ -1,4 +1,4 @@
-# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+# 4 UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 **Sumber** [VIA assessment](StrengthsProfile-Tiara-Kusuma.pdf)
 
@@ -14,9 +14,7 @@ Membantu orang lain berkembang, baik dalam hal pengetahuan maupun pengembangan d
 
 **Kekuatan Utama:**  
 - Empati yang kuat, kemampuan untuk mendengarkan, dan memberikan dukungan kepada orang lain.
-
 - Keinginan besar untuk terus belajar, tidak hanya untuk diri sendiri, tetapi juga untuk berbagi ilmu dan pengalaman dengan orang lain.
-
 - Keterampilan dalam beradaptasi dengan berbagai situasi dan orang, serta membangun hubungan yang bermakna.
 
 **Dampak yang Dituju:**  
@@ -46,7 +44,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 ## 1) S — Spiritual Gifts (Karunia Rohani)
 
 **Hasil Analisis VIA saya:**  
-**Empati & Pengertian:**  
+- **Empati & Pengertian:**  
   Saya memiliki kemampuan untuk merasakan dan memahami perasaan orang lain, memberikan dukungan emosional ketika mereka membutuhkan. Ini adalah kekuatan utama saya dalam berhubungan dengan orang lain.
   
 - **Kepemimpinan yang Lembut:**  
@@ -54,7 +52,6 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 **Indikator Bukti:**  
 - Dukungan yang saya berikan kepada teman-teman saat mereka membutuhkan bimbingan.
-
 - Kemampuan saya untuk memotivasi dan membantu orang lain mencapai tujuan mereka, baik dalam tugas atau kehidupan pribadi mereka.
 
 ---
@@ -62,7 +59,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 ## 2) H — Heart (Minat, Nilai, Kepedulian)
 
 **Hasil Analisis VIA saya:**  
-**Pendidikan yang Bermakna:**  
+- **Pendidikan yang Bermakna:**  
   Saya sangat tertarik untuk memberikan pengalaman dan pengetahuan yang bermanfaat bagi orang lain. Bagi saya, berbagi ilmu dan pengalaman hidup adalah cara saya untuk memberi dampak positif.
   
 - **Kesejahteraan Keluarga dan Teman:**  
@@ -73,7 +70,6 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 **Masalah yang ingin dipecahkan:**  
 - Membantu orang lain untuk lebih mengenal dan menerima diri mereka sendiri.
-
 - Menciptakan hubungan yang lebih bermakna dan tidak sekadar hubungan biasa.
 
 ---
@@ -81,7 +77,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 ## 3) A — Abilities (Kemampuan Andal)
 
 **Hasil Analisis VIA saya:**  
-**Kemampuan Mendengarkan dan Memberi Dukungan:**  
+- **Kemampuan Mendengarkan dan Memberi Dukungan:**  
   Saya bisa menjadi pendengar yang baik, dan saya merasa puas ketika bisa memberi dukungan yang tepat kepada orang lain.
 
 - **Berbicara di Depan Umum:**  
@@ -92,7 +88,6 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 
 **Indikator Bukti:**  
 - Pengalaman dalam memberi saran dan bimbingan kepada teman-teman saya.
-
 - Keterlibatan dalam berbagai kegiatan sosial yang memungkinkan saya untuk berinteraksi dan bekerja sama dengan berbagai orang.
 
 ---
@@ -100,7 +95,7 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 ## 4) P — Personality (Gaya Kerja & Kolaborasi)
 
 **Hasil Analisis VIA saya:**  
-**Terstruktur & Reflektif:**  
+- **Terstruktur & Reflektif:**  
   Saya suka merencanakan sesuatu dengan matang, dan saya juga merenung untuk mengevaluasi diri dan memperbaiki cara kerja saya.
 
 - **Empatik & Kolaboratif:**  
@@ -114,14 +109,14 @@ Menciptakan hubungan yang lebih baik dengan orang lain dan membantu mereka berke
 ## 5) E — Experiences (Pengalaman Pembentuk)
 
 **Hasil Analisis VIA saya:**  
-**Pengalaman Menghadapi Tantangan:**  
+- **Pengalaman Menghadapi Tantangan:**  
   Saya telah melewati banyak tantangan dalam hidup saya, yang membuat saya lebih kuat dan lebih paham bagaimana cara menghadapi kesulitan.
 
 - **Pengalaman Berbagi Pengalaman & Memberi Dukungan:**  
   Dalam perjalanan hidup saya, saya sering diminta untuk memberi dukungan kepada teman-teman yang sedang mengalami kesulitan.
 
 **Pelajaran Inti:**  
-Setiap tantangan adalah kesempatan untuk berkembang dan belajar lebih banyak tentang diri sendiri dan orang lain. Saya belajar untuk tetap sabar dan terbuka terhadap pembelajaran sepanjang hayat.
+- Setiap tantangan adalah kesempatan untuk berkembang dan belajar lebih banyak tentang diri sendiri dan orang lain. Saya belajar untuk tetap sabar dan terbuka terhadap pembelajaran sepanjang hayat.
 
 ---
 
@@ -157,9 +152,7 @@ Menjaga keseimbangan antara pekerjaan dan kehidupan pribadi, serta menolak beker
 
 Tempat saya paling berdampak adalah di **lingkungan kampus**, **keluarga**, dan **komunitas sosial**.  
 - **Kampus:** Sebagai mahasiswa yang aktif, saya ingin terus memberikan kontribusi dengan membantu teman-teman dalam memahami materi kuliah, membimbing mereka dalam proyek atau tugas, serta berkolaborasi dalam kegiatan akademik atau sosial. Saya juga ingin mengembangkan kurikulum yang relevan dengan kebutuhan nyata mahasiswa.
-
 - **Keluarga:** Keluarga adalah tempat pertama saya belajar nilai-nilai kehidupan. Saya selalu berusaha memberikan perhatian dan dukungan emosional kepada keluarga saya, terutama orang tua, serta berkontribusi dalam membangun hubungan yang lebih baik di lingkungan rumah.
-
 - **Komunitas Sosial:** Saya aktif dalam berbagai kegiatan sosial, membantu mereka yang membutuhkan bimbingan, terutama dalam pendidikan dan pemberdayaan diri. Ini memberi saya kesempatan untuk memberikan dampak nyata dalam kehidupan orang lain.
 
 ---
