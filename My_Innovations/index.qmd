@@ -2,9 +2,9 @@
 
 ## Konsep Inovasi: Jembatan Kognitif di Era Kecerdasan Buatan
 
-**AI-Literacy Nexus** adalah sebuah sistem layanan pendidikan cerdas yang dirancang sebagai mentor kognitif asasi untuk mengatasi krisis literasi global di tengah populasi dunia yang mencapai 8,2 miliar jiwa. Inovasi ini bertindak sebagai "Juru Tulis Cerdas" yang mengintegrasikan kecerdasan buatan untuk memberikan akses pengetahuan bagi 750 juta orang dewasa yang buta huruf. Produk ini dirancang sebagai solusi atas fenomena kegagalan generasi, di mana hampir 250 juta anak dan remaja tidak bersekolah pada tahun 2024.
+![](innovations.png)
 
-![](innovations.jpg)
+**AI-Literacy Nexus** adalah sebuah sistem layanan pendidikan cerdas yang dirancang sebagai mentor kognitif asasi untuk mengatasi krisis literasi global di tengah populasi dunia yang mencapai 8,2 miliar jiwa. Inovasi ini bertindak sebagai "Juru Tulis Cerdas" yang mengintegrasikan kecerdasan buatan untuk memberikan akses pengetahuan bagi 750 juta orang dewasa yang buta huruf. Produk ini dirancang sebagai solusi atas fenomena kegagalan generasi, di mana hampir 250 juta anak dan remaja tidak bersekolah pada tahun 2024.
 
 ## Nilai Guna dan Kebaruan (Value & Novelty)
 

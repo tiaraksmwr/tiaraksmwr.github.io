@@ -1,9 +1,10 @@
 # UAS-2 My Opinions: Mendekonstruksi Kegelapan Literasi sebagai Hak Asasi di Era AI
 
-![](Opinions.jpg)
 ---
 
 ## Paradoks Peradaban di Tahun 2025
+![](Opinions.png)
+
 Di ambang tahun 2025, peradaban manusia mencatatkan sejarah dengan jumlah populasi yang mencapai angka fantastis, yakni sekitar 8,2 miliar jiwa. Kita hidup di era di mana kecerdasan buatan mampu melakukan kalkulasi yang melampaui kemampuan otak manusia, namun di balik kemegahan transmisi data tersebut, kita menghadapi sebuah "Paradoks Pengetahuan" yang memuakkan: fakta bahwa kemampuan paling mendasar untuk bertahan hidup—melek huruf—masih menjadi kemewahan yang tidak terjangkau bagi sebagian besar penduduk bumi. Saat ini, terdapat sekitar 750 juta orang dewasa yang hidup dalam kegelapan buta huruf, sebuah angka yang setara dengan hampir 10% dari total populasi global. Bagaimana mungkin kita merayakan kemajuan AI jika satu dari sepuluh orang di sekitar kita bahkan tidak mampu membaca pesan keselamatan atau memahami kontrak kerja mereka sendiri?
 
 ## Akar Krisis: Kesenjangan Gender dan Kegagalan Generasi
