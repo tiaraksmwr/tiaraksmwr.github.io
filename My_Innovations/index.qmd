@@ -1,5 +1,7 @@
 # UAS-3 My Innovations : AI-Literacy Nexus — Platform Mentor Kognitif Personal
 
+Topik: Akses Pendidikan dan Melek Huruf
+
 ## Konsep Inovasi: Jembatan Kognitif di Era Kecerdasan Buatan
 
 ![](innovations.png)
