@@ -1,5 +1,47 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+---
+title: "Evaluation of UAS-1 to UAS-4"
+---
+
+## Identitas Mahasiswa
+
+* **Nama:** Tiara Kusuma Wardhani
+* **Kelas:** K-01
+* **Semester:** Ganjil 2025/2026
+* **Topik Utama:** Akses Pendidikan dan Melek Huruf (SDG 4)
+
+---
+
+## Tinjauan Umum
+
+Produk pengetahuan dan penilaian mandiri terhadap tugas-tugas UAS 1 sampai 4 disusun berdasarkan rubrik penilaian yang menekankan pada kedalaman analisis dan relevansi solusi terhadap krisis literasi global. Penilaian ini menyoroti bagaimana integrasi **Triune Intelligence** (Hati, Pikiran, Tenaga) dan teknologi AI dapat mendekonstruksi kegelapan informasi bagi 750 juta penduduk dunia yang masih buta huruf.
+
+---
+
+## Rekap Self Assessment dan Peer Assessment
+
+Berikut adalah tabel rubrik penilaian untuk UAS-1 s.d. UAS-4:
+
+| Section | Judul | Aspek Dinilai | Deskripsi Penilaian | Skor |
+|:---|:---|:---|:---|:---:|
+| **UAS-1** | **My Concepts** | Kejelasan Konsep | Konsep **Sistem Sosio-Teknis (TISE)** sangat tajam dalam menyelaraskan AQ, PI-A, dan PSKVE untuk pemberdayaan manusia. | **95** |
+| **UAS-2** | **My Opinions** | Kedalaman Analisis | Tajam dalam mendekonstruksi **"Paradoks Pengetahuan"** dan mengaitkan literasi sebagai hak asasi di era AI. | **94** |
+| **UAS-3** | **My Innovations** | Kreativitas | Inovasi **AI-Literacy Nexus** sangat orisinal dengan fitur *Visual-to-Text Mapping* untuk masyarakat berpenghasilan rendah. | **95** |
+| **UAS-4** | **My Knowledge** | Struktur Pengetahuan | Panduan disusun secara sistematis untuk publik, mengubah data krisis menjadi langkah konkret literasi sebagai kunci ekonomi. | **94** |
+| **UAS-1 s.d 4** | **Integrasi** | Konsistensi | Keselarasan narasi antara teori Triune Intelligence dengan solusi praktis di setiap tugas sangat konsisten. | **96** |
+
+---
+
+## Nilai Akhir
+
+> **Rata-rata keseluruhan skor self-assessment: 94.8 (Sangat Baik)**
+
+### Refleksi Singkat
+Seluruh materi telah berhasil membingkai isu literasi bukan sekadar masalah teknis membaca, melainkan instrumen pembebasan kognitif. Dengan memanfaatkan **Synergistic Practical Intelligence**, kita memberikan kunci bagi 10% populasi dunia untuk membuka pintu kesehatan, martabat ekonomi, dan masa depan yang lebih adil di tahun 2025.
+
+---
+
+*Disusun sebagai bagian dari pemenuhan tugas mata kuliah Komunikasi Inter Personal.*
 
 ## Peer Assessment
 {<https://docs.google.com/spreadsheets/d/1Y3B4KN7olig-YiPGs6HdSeRl6NjViaFL/edit?usp=sharing&ouid=111341791953014744360&rtpof=true&sd=true>}
